@@ -1,0 +1,12 @@
+fastapi==0.85.1
+uvicorn
+httpx
+langchain-core
+langchain-groq
+langchain-openai
+langchain
+langchain-community
+pydantic
+chromadb==0.3.29
+langchain-pinecone
+redis
